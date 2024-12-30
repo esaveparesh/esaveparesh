@@ -9,11 +9,9 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/esaveparesh/</samp>
+<samp>- 📫 Reach me at https://in.linkedin.com/in/paresh-esave-1249a7250</samp>
 
 <samp>- 📫 Reach me at esaveparesh@gmail.com</samp>
-
-<samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
 
 <samp>- ⌨️ Fun fact: I spend approximately 8 hours coding every day! 💻</samp>
 
