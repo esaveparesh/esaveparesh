@@ -1,4 +1,4 @@
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Paresh, a Full Stack Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Diploma in Information Technology at Goverment Polytechnic,Gandhinagar
 <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
