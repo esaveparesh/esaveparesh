@@ -1,16 +1,17 @@
 <<h1 align="center"><samp>Turning Ideas Into Apps</samp> 
 <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h2 align="center"><samp>Hi 👋 I'm Paresh E</samp></h2>
-<h3 align="center"><samp>A Full stack developer from India</samp> </h3>
+
+
+
+
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 
 
 
-
+# 💻 Tech Stack:
 <div style="display: flex; align-items: center; align: center">
-  <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -44,15 +45,14 @@
 </div>
 
 
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+# 📟 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esaveparesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esaveparesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+# ✍️ Random Dev Quote:
 <div style="margin-bottom: 60px;"></div>
-<h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
