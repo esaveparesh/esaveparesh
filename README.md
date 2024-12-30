@@ -1,11 +1,21 @@
-# Hello World!, I'm Paresh, a Full Stack Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Diploma in Information Technology at Goverment Polytechnic,Gandhinagar
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-
-
-
+<h2 align="center"><samp>Hi 👋 I'm Paresh E.</samp></h2>
+<h3 align="center"><samp>A Full Stack developer from India</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
+<div style="margin-bottom: 200px;"></div>
+
+<samp>- 📫 Reach me at https://www.linkedin.com/in/esaveparesh/</samp>
+
+<samp>- 📫 Reach me at esaveparesh@gmail.com</samp>
+
+<samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
+
+<samp>- ⌨️ Fun fact: I spend approximately 8 hours coding every day! 💻</samp>
 
 
 
