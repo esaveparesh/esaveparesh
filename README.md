@@ -9,7 +9,7 @@
 
 
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: center; align: center">
   <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
