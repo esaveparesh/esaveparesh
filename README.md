@@ -5,7 +5,7 @@
 <h3 align="center"><samp>A Full stack developer from India</samp> </h3>
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-###
+
 
 
 
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="https://www.instagram.com/esaveparesh/profilecard/?igsh=MXY5enBkMGp3ZGEyYQ==" target="_blank">
@@ -43,20 +43,19 @@
   </a>
 </div>
 
-###
+
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esaveparesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esaveparesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 <div style="margin-bottom: 60px;"></div>
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
-###
 
 <br clear="both">
 
@@ -65,5 +64,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esaveparesh/esaveparesh/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/esaveparesh/esaveparesh/output/snake.svg" alt="Snake animation" />
 </picture>
-
-###
