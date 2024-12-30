@@ -1,12 +1,8 @@
-<h2 align="left">Hello World!, I'm Paresh, a Full stack Developer 👋🏼:</h2>
+<<h1 align="center"><samp>Turning Ideas Into Apps</samp> 
+<img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-###
-
-<p align="left">🛜 currently working on my own Webpage<br>👨🏼‍🎓 studying Diploma in Information Technology</p>
-
-###
-
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+<h2 align="center"><samp>Hi 👋 I'm Paresh E</samp></h2>
+<h3 align="center"><samp>A Full stack developer from India</samp> </h3>
 
 ###
 
