@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="440" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif"  />
-</div>
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 ###
 
