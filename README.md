@@ -10,9 +10,10 @@
 
 ###
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 
-<div align="left">
+
+<div style="display: flex; align-items: flex-start; align: center">
+  <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
