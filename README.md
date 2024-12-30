@@ -10,6 +10,8 @@
 
 ###
 
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -30,7 +32,6 @@
 
 ###
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div align="left">
   <a href="https://www.instagram.com/esaveparesh/profilecard/?igsh=MXY5enBkMGp3ZGEyYQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
